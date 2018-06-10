@@ -1,0 +1,49 @@
+.sect-padding {
+  padding:60px 0;
+}
+
+.form-control:focus {
+  border-color:#A0A0A0;
+  box-shadow:0 0 0 0.2rem rgba(39, 58, 114, 0);
+}
+
+.enquiry {
+  margin:0 auto;
+  display:block;
+  border:1px solid #8b0000;
+}
+
+.enq-form {
+  margin-bottom:12px;
+}
+
+.modal-header {
+  border-bottom:none;
+}
+
+.enq-item {
+  border:1px solid #A0A0A0;
+  padding:2px 5px;
+  background:#fff;
+  width:382px;
+  text-align:center;
+  border-radius:4px;
+}
+
+.enq-head {
+  margin-left:38px;
+}
+
+.enq-btn {
+  margin-right:10px;
+}
+
+.btn.btn-light.enq-btn.submit {
+  background:#8b0000;
+  color:#fff;
+}
+
+.enq-prodt {
+  color:#8b0000;
+}
+
